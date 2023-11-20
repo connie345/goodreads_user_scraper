@@ -1,0 +1,6 @@
+beautifulsoup4
+twine
+wheel
+bumpversion
+pre-commit
+black
